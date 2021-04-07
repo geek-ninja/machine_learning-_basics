@@ -35,3 +35,7 @@
 <p>upper confidence bound</p>
 <p>Thompson Sampling</p>
 <p>Natural Language Processing</p>
+<br><br>
+<h2>how to run </h2>
+<p>python3 "name_of_the_machine_learning_model".py</p>
+<p>you will get the model results along with graphical representation using matplotlib library</p>
